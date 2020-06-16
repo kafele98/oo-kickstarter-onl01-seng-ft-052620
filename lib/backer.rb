@@ -6,3 +6,6 @@ class Backer
   end 
   
 end 
+
+
+backer = Backer.new("Avi")
